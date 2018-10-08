@@ -9,9 +9,7 @@ function log(msg) {
     console.log("[" + new Date().toLocaleString() + "] " + msg);
 }
 
-log("--- WARNING ---");
-log("This is a proxyLESS version. It is highly likely you will run into blocking and have your IP banned. You should use the proxied version instead!");
-log("Use of this version is done at own risk.");
+log("Currious Cat Spammer (RedstoneHomie)");
 
 log("Starting on " + target + " with question " + question);
 
