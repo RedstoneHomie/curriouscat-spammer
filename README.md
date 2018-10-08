@@ -3,7 +3,7 @@ Spam peoples Currious Cat with the same message.
 #
 Installation:
 
- - Download NodeJS: https://nodejs.org/en/download/current/?
+ - Download NodeJS: https://nodejs.org/en/download/current/
  - Open PowerShell or terminal whist cd'ed in the directory.
  - Type "run npm install request" on the command line
 #
