@@ -1,4 +1,4 @@
-# curriouscat-spammer
+# Currious Cat Spammer
 Spam peoples Currious Cat with the same message.
 #
 Installation:
