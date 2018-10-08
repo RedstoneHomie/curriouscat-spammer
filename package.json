@@ -1,0 +1,9 @@
+{
+  "name": "CuriousCat Spammer",
+  "description": "Spams any desired CuriousCat.me page of choice",
+  "version": "1.0.0",
+  "dependencies": {
+    "https://registry.npmjs.org/request/-/request-2.83.0.tgz": "2.83.0",
+    "request": "^2.88.0"
+  }
+}
