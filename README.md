@@ -10,4 +10,5 @@ Installation:
 Usage:
  - "node cat-spammer.js username time(in ms) message"
  - Example: "node cat-spammer.js RedstoneHomie 10 You smell"
+ - To kill the process, Hold "CTRL + C"
 #
