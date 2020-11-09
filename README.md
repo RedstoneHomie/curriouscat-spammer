@@ -1,4 +1,6 @@
 # Currious Cat Spammer
+Please keep in mind this project has been abandoned and no longer receives updates.
+
 Spam peoples Currious Cat with the same message.
 #
 Installation:
